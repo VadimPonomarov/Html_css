@@ -1,32 +1,32 @@
+@import "supplementary.css";
+
 * {
-    padding: 0;
+    padding: 5px;
+    margin: 0;
     box-sizing: border-box;
 }
 
-body {
-    border: 1px solid red;
-    margin: 5px;
-    padding: 15px;
-}
-
-h1, h2 {
-    border: 1px solid green;
-}
-
-p {
-    border: 1px solid yellow;
+html {
+    font-size: 20px;
 }
 
 img {
-    border: 1px solid hotpink;
+    width: 300px;
+    height: 300px;
+    box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
+    border-radius: 50%;
 }
 
 ul {
-    border: 1px solid cornflowerblue;
-    max-width: 80%;
+    text-align: end;
+    list-style: inside;
 }
 
 li {
     margin: 5px;
-    border: 1px solid darkblue;
+
+}
+hr {
+    height: 1px;
+    padding: 0;
 }
