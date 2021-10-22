@@ -126,18 +126,18 @@ ul {
 /*Buttons.........................................................*/
 
 .btn100 {
-    min-height: 30px;
+    height: 30px;
     width: 100px;
 }
 
 .btn150 {
-    min-height: 40px;
+    height: 40px;
     width: 150px;
 }
 
 .btn {
-    min-height: 20px;
-    min-width: 20px;
+    height: 20px;
+    width: 20px;
 }
 
 /*Flex............................................................*/
