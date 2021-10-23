@@ -250,6 +250,7 @@ ul {
 .card__content {
     text-align: justify;
     margin: 2px 0;
+    overflow: hidden;
 }
 
 .card__content_40 {
