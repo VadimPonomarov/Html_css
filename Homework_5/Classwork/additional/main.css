@@ -23,6 +23,7 @@ div {
     min-height: 30px;
     min-width: 30px;
 }
+
 a {
     color: var(--b-color);
     text-decoration: none;
@@ -34,13 +35,14 @@ p {
     margin: 5px;
 }
 
-.p5 {
-    padding: 5px;
+.p__5 {
+    padding: 15%;
 }
 
 ul {
     list-style: none;
 }
+
 
 /*Text transformation.............................................*/
 
@@ -63,6 +65,7 @@ ul {
 .fb {
     color: var(--b-color)
 }
+
 
 /*Background colors...............................................*/
 
@@ -100,6 +103,7 @@ ul {
 .rg20 {
     row-gap: 20px;
 }
+
 .rg10 {
     row-gap: 10px;
 }
